@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am a Full-Stack web development student at Business College Helsinki.
-My main technologies are HTML, CSS and JavaScript. Currently, I'm learning React. 
+My main technologies are HTML, CSS and JavaScript. Currently, I'm learning React. 😄
