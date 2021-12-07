@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 
 I am a Full-Stack web development student at Business College Helsinki.
 My main technologies are HTML, CSS and JavaScript. Currently, I'm learning React. 😄
+
+---
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg
+" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/>
+
+---
