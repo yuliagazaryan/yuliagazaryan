@@ -30,7 +30,7 @@ My main technologies are HTML, CSS and JavaScript. Currently, I'm learning React
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<yuliagazaryan>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliagazaryan&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Yulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=<yuliagazaryan>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Yulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliagazaryan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
