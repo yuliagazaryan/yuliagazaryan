@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full-Stack web development student at Business College Helsinki.
+I am a Full-Stack web development student.
 My main technologies are HTML, CSS and JavaScript. Currently, I'm learning React. 😄
 
 ---
